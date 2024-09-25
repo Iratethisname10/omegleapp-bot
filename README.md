@@ -28,6 +28,7 @@ npm install puppeteer
 ```
 
 3. your file structure should look like this
+
 ![img](./assets/image.png)
 
 4. Open the `main.js` file from the `src` folder and configure the config
